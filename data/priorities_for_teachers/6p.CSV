@@ -1,0 +1,4 @@
+Required_Software,Number_Of_Students,Course_ID,Course_Total_Hours,Course_Time_Per_Week,Room_ID,Satisfied_Requirement,Volume,Teacher_ID,Week,Day,Course_Sequence,Application_Priority
+256,150,微服务与容器实验,16,4,338,4095,150,6,"12, 13, 14, 15",2,"5, 6, 7, 8",1
+256,150,微服务与容器实验,16,4,337,5119,150,6,"12, 13, 14, 15",2,"9, 10, 11, 12",2
+256,150,微服务与容器实验,16,4,238,4095,200,6,"9, 11, 13, 15",5,"9, 10, 11, 12",3

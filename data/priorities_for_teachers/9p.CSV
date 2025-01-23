@@ -1,0 +1,4 @@
+Required_Software,Number_Of_Students,Course_ID,Course_Total_Hours,Course_Time_Per_Week,Room_ID,Satisfied_Requirement,Volume,Teacher_ID,Week,Day,Course_Sequence,Application_Priority
+1024,40,工业数据实验,16,4,331,4095,80,9,"4, 6, 8, 10",4,"5, 6, 7, 8",1
+1024,40,工业数据实验,16,4,333,4095,80,9,"13, 14, 15, 16",4,"9, 10, 11, 12",2
+1024,40,工业数据实验,16,8,138,8191,200,9,"17, 18",7,"1, 2, 3, 4, 5, 6, 7, 8",3

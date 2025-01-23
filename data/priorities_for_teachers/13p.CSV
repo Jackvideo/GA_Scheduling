@@ -1,0 +1,4 @@
+Required_Software,Number_Of_Students,Course_ID,Course_Total_Hours,Course_Time_Per_Week,Room_ID,Satisfied_Requirement,Volume,Teacher_ID,Week,Day,Course_Sequence,Application_Priority
+256,200,SA 实验_13,16,4,238,4095,200,13,"9, 10, 11, 12",2,"9, 10, 11, 12",1
+256,200,SA 实验_13,16,4,238,4095,200,13,"11, 13, 15, 17",4,"9, 10, 11, 12",2
+256,200,SA 实验_13,16,4,138,8191,200,13,"9, 10, 11, 12",5,"9, 10, 11, 12",3

@@ -1,0 +1,4 @@
+Required_Software,Number_Of_Students,Course_ID,Course_Total_Hours,Course_Time_Per_Week,Room_ID,Satisfied_Requirement,Volume,Teacher_ID,Week,Day,Course_Sequence,Application_Priority
+128,130,机器学习实验_3,16,8,337,5119,150,3,"9, 10, 11, 12",6,"1, 2, 3, 4, 5, 6, 7, 8",1
+128,130,机器学习实验_3,16,8,338,4095,150,3,"3, 5, 7, 9",6,"1, 2, 3, 4, 5, 6, 7, 8",2
+128,130,机器学习实验_3,16,8,138,8191,200,3,"9, 10, 11, 12",7,"1, 2, 3, 4, 5, 6, 7, 8",3

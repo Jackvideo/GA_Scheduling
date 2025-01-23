@@ -1,0 +1,4 @@
+Required_Software,Number_Of_Students,Course_ID,Course_Total_Hours,Course_Time_Per_Week,Room_ID,Satisfied_Requirement,Volume,Teacher_ID,Week,Day,Course_Sequence,Application_Priority
+2,138,"1,2 班 DB 实验",16,4,337,5119,150,4,"9, 10, 11, 12",4,"9, 10, 11, 12",1
+2,138,"1,2 班 DB 实验",16,4,238,4095,150,4,"9, 10, 11, 12",3,"9, 10, 11, 12",2
+2,138,"1,2 班 DB 实验",16,4,138,8191,200,4,"9, 10, 11, 12",5,"9, 10, 11, 12",3

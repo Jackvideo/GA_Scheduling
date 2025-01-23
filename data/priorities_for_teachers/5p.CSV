@@ -1,0 +1,4 @@
+Required_Software,Number_Of_Students,Course_ID,Course_Total_Hours,Course_Time_Per_Week,Room_ID,Satisfied_Requirement,Volume,Teacher_ID,Week,Day,Course_Sequence,Application_Priority
+2048,47,计算机图形学实验,16,4,233,4095,80,5,"12, 13, 14, 15",4,"9, 10, 11, 12",1
+2048,47,计算机图形学实验,16,4,233,4095,80,5,"9, 10, 11, 12",3,"9, 10, 11, 12",2
+2048,47,计算机图形学实验,16,8,331,4095,80,5,"13, 14",6,"9, 10, 11, 12",3
